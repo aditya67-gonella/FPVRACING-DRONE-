@@ -15,4 +15,5 @@ The project consists of :
 4.removing large material with adaptive tool path
 and for propeller, the propeller blade was machined by multi axis flow machining process
 
-suitable tools and ther dianeters were used in these process and user can change them accordingly to his requirement. the basic concept behind remains same anyways. 
+Suitable tools and ther dianeters were used in these process and user can change them accordingly to his requirement. the basic concept behind remains same anyways. 
+Then entire design can be exported to ULTIMAKER-CURA and can be 3D printed as needed. the user can select the type of 3D printer he wanted to print with, and the infill thickness, type of infill, layer thickness, shape of infill, feed rate, extrusion rate, and can make according to our requirement. 
